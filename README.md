@@ -8,7 +8,7 @@ python3 flupy.py --help
 python3 flupy.py clean <directory>  # cleans all flutter projects build directories in <directory.
 python3 flupy.py get .  # runs flutter pub get in all flutter projects in under current directory
 
-if you are in windows use:
+# if you are on windows use:
 python flupy.py clean <dir>
 ```
 
